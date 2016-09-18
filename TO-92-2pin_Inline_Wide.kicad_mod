@@ -18,4 +18,9 @@
   (fp_line (start 6.1 1.95) (end 6.1 -2.65) (layer F.CrtYd) (width 0.05))
   (pad 2 thru_hole circle (at 5.08 0 90) (size 1.524 1.524) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 0 0 90) (size 1.524 1.524) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
+  (model TO_SOT_Packages_THT.3dshapes/TO-92-2pin_Inline_Wide.wrl
+    (at (xyz 0.1 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
 )
