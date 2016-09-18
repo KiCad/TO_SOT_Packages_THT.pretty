@@ -16,4 +16,9 @@
   (fp_line (start 3.95 1.95) (end 3.95 -2.65) (layer F.CrtYd) (width 0.05))
   (pad 2 thru_hole oval (at 2.54 0 180) (size 0.89916 1.50114) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole oval (at 0 0 180) (size 0.89916 1.50114) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
+  (model TO_SOT_Packages_THT.3dshapes/TO-92-2pin_Inline_Narrow_Oval.wrl
+    (at (xyz 0.05 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
 )
