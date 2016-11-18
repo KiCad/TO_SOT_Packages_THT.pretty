@@ -1,4 +1,4 @@
-(module TO-8_3Pin (layer F.Cu) (tedit 5824DB59)
+(module TO-8_3Pin (layer F.Cu) (tedit 582F80FE)
   (descr "TO-8_3Pin")
   (tags "TO-8_3Pin")
   (fp_text reference REF** (at 3.55 -8.4) (layer F.SilkS)
@@ -14,4 +14,9 @@
   (pad 1 thru_hole oval (at 0 0) (size 2.1 1.6) (drill 1.1) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 3.55 3.55) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 7.1 -0) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask))
+  (model TO_SOT_Packages_THT.3dshapes/TO-8_3Pin.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.393701 0.393701 0.393701))
+    (rotate (xyz 0 0 0))
+  )
 )
