@@ -1,10 +1,10 @@
-(module Multiwatt-15-15pin_Vertical_StaggeredType1 (layer F.Cu) (tedit 5824CB23)
-  (descr "Multiwatt-15-15pin, Vertical, RM 1.27mm, Multiwatt, staggered type-1")
-  (tags "Multiwatt-15-15pin Vertical RM 1.27mm Multiwatt staggered type-1")
+(module Multiwatt-15_Vertical_StaggeredType1 (layer F.Cu) (tedit 58301782)
+  (descr "Multiwatt-15, Vertical, RM 1.27mm, Multiwatt, staggered type-1")
+  (tags "Multiwatt-15 Vertical RM 1.27mm Multiwatt staggered type-1")
   (fp_text reference REF** (at 8.89 -10.78) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Multiwatt-15-15pin_Vertical_StaggeredType1 (at 8.89 2.6) (layer F.Fab)
+  (fp_text value Multiwatt-15_Vertical_StaggeredType1 (at 8.89 2.6) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.21 -9.58) (end -1.21 -4.58) (layer F.Fab) (width 0.1))
@@ -63,7 +63,7 @@
   (pad 13 thru_hole oval (at 15.24 0) (size 1.8 1.8) (drill 1.0) (layers *.Cu *.Mask))
   (pad 14 thru_hole oval (at 16.51 -5.08) (size 1.8 1.8) (drill 1.0) (layers *.Cu *.Mask))
   (pad 15 thru_hole oval (at 17.78 0) (size 1.8 1.8) (drill 1.0) (layers *.Cu *.Mask))
-  (model TO_SOT_Packages_THT.3dshapes/Multiwatt-15-15pin_Vertical_StaggeredType1.wrl
+  (model TO_SOT_Packages_THT.3dshapes/Multiwatt-15_Vertical_StaggeredType1.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
