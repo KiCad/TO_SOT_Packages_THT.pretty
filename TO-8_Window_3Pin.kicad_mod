@@ -10,7 +10,7 @@
   (fp_circle (center 3.55 -0) (end 10.15 -0) (layer F.Fab) (width 0.1))
   (fp_circle (center 3.55 -0) (end 10.75 -0) (layer F.Fab) (width 0.1))
   (fp_circle (center 3.55 -0) (end 9.011 -0) (layer F.Fab) (width 0.1))
-  (fp_circle (center 3.55 -0) (end 10.95 -0) (layer F.SilkS) (width 0.15))
+  (fp_circle (center 3.55 -0) (end 10.95 -0) (layer F.SilkS) (width 0.12))
   (fp_circle (center 3.55 -0.05) (end 11.2 -0.05) (layer F.CrtYd) (width 0.05))
   (fp_line (start 6.048 -4.857) (end 8.407 -2.498) (layer F.Fab) (width 0.1))
   (fp_line (start 5.103 -5.236) (end 8.786 -1.553) (layer F.Fab) (width 0.1))
