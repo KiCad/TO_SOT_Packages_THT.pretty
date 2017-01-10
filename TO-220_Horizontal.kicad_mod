@@ -1,4 +1,4 @@
-(module TO-220_Horizontal (layer F.Cu) (tedit 5831AB4B)
+(module TO-220_Horizontal (layer F.Cu) (tedit 5874B7BD)
   (descr "TO-220, Horizontal, RM 2.54mm")
   (tags "TO-220 Horizontal RM 2.54mm")
   (fp_text reference REF** (at 2.54 -20.66) (layer F.SilkS)

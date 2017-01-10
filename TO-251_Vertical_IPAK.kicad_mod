@@ -1,4 +1,4 @@
-(module TO-251_Vertical_IPAK (layer F.Cu) (tedit 58317983)
+(module TO-251_Vertical_IPAK (layer F.Cu) (tedit 5874B7BC)
   (descr "TO-251, Vertical, RM 2.3mm, IIAK")
   (tags "TO-251 Vertical RM 2.3mm IIAK")
   (fp_text reference REF** (at 2.3 -2.2) (layer F.SilkS)

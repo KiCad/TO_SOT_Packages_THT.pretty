@@ -1,4 +1,4 @@
-(module TO-262_Vertical_I2PAK (layer F.Cu) (tedit 583335F2)
+(module TO-262_Vertical_I2PAK (layer F.Cu) (tedit 5874B7BD)
   (descr "TO-262, Vertical, RM 2.54mm, IIPAK, I2PAK, I²PAK")
   (tags "TO-262 Vertical RM 2.54mm IIPAK I2PAK I²PAK")
   (fp_text reference REF** (at 2.54 -3.85) (layer F.SilkS)

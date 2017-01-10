@@ -1,4 +1,4 @@
-(module Multiwatt-11_Vertical_StaggeredType2 (layer F.Cu) (tedit 58301782)
+(module Multiwatt-11_Vertical_StaggeredType2 (layer F.Cu) (tedit 5874B7BD)
   (descr "Multiwatt-11, Vertical, RM 1.7mm, Multiwatt, staggered type-2")
   (tags "Multiwatt-11 Vertical RM 1.7mm Multiwatt staggered type-2")
   (fp_text reference REF** (at 8.5 -5.7) (layer F.SilkS)

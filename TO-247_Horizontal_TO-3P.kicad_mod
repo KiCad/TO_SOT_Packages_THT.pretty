@@ -1,4 +1,4 @@
-(module TO-247_Horizontal_TO-3P (layer F.Cu) (tedit 5831A32E)
+(module TO-247_Horizontal_TO-3P (layer F.Cu) (tedit 5874B7BC)
   (descr "TO-247, Horizontal, RM 5.45mm, TO-3P")
   (tags "TO-247 Horizontal RM 5.45mm TO-3P")
   (fp_text reference REF** (at 5.45 -27.23) (layer F.SilkS)

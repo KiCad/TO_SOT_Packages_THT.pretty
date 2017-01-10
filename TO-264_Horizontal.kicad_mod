@@ -1,4 +1,4 @@
-(module TO-264_Horizontal (layer F.Cu) (tedit 58317983)
+(module TO-264_Horizontal (layer F.Cu) (tedit 5874B7BC)
   (descr "TO-264, Horizontal, RM 5.45mm")
   (tags "TO-264 Horizontal RM 5.45mm")
   (fp_text reference REF** (at 5.45 -32.28) (layer F.SilkS)

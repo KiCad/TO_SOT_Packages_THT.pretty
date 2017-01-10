@@ -1,4 +1,4 @@
-(module TO-218_Vertical_SOT93 (layer F.Cu) (tedit 58317983)
+(module TO-218_Vertical_SOT93 (layer F.Cu) (tedit 5874B7BC)
   (descr "TO-218, Vertical, RM 5.47mm, SOT93")
   (tags "TO-218 Vertical RM 5.47mm SOT93")
   (fp_text reference REF** (at 5.47 -4.2) (layer F.SilkS)
