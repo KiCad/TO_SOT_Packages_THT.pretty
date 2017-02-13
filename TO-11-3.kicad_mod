@@ -1,4 +1,4 @@
-(module TO-11-3 (layer F.Cu) (tedit 58A20EFD)
+(module TO-11-3 (layer F.Cu) (tedit 58A2168A)
   (descr "TO-11-3")
   (tags "TO-11-3")
   (fp_text reference REF** (at 2.54 -5.82) (layer F.SilkS)

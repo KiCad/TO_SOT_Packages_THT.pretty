@@ -1,4 +1,4 @@
-(module TO-220-5_Pentawatt_Multiwatt-5_Horizontal_StaggeredType1 (layer F.Cu) (tedit 58A20EFC)
+(module TO-220-5_Pentawatt_Multiwatt-5_Horizontal_StaggeredType1 (layer F.Cu) (tedit 58A217F3)
   (descr "TO-220-5, Horizontal, RM 1.7mm, Pentawatt, Multiwatt-5, staggered type-1")
   (tags "TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5 staggered type-1")
   (fp_text reference REF** (at 3.4 -23.9) (layer F.SilkS)

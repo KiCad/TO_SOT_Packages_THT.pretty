@@ -1,4 +1,4 @@
-(module TO-220_Vertical (layer F.Cu) (tedit 58A20EFC)
+(module TO-220_Vertical (layer F.Cu) (tedit 58A217F2)
   (descr "TO-220, Vertical, RM 2.54mm")
   (tags "TO-220 Vertical RM 2.54mm")
   (fp_text reference REF** (at 2.54 -3.62) (layer F.SilkS)

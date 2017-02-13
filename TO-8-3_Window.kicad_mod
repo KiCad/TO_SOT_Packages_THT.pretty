@@ -1,4 +1,4 @@
-(module TO-8-3_Window (layer F.Cu) (tedit 58A20EFC)
+(module TO-8-3_Window (layer F.Cu) (tedit 58A2168A)
   (descr "TO-8-3_Window, Window")
   (tags "TO-8-3_Window Window")
   (fp_text reference REF** (at 3.55 -8.32) (layer F.SilkS)
