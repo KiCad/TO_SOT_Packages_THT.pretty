@@ -1,4 +1,4 @@
-(module TO-92_Inline_Narrow_Oval (layer F.Cu) (tedit 58610929)
+(module TO-92_Inline_Narrow_Oval (layer F.Cu) (tedit 58CE52AF)
   (descr "TO-92 leads in-line, narrow, oval pads, drill 0.6mm (see NXP sot054_po.pdf)")
   (tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
   (fp_text reference REF** (at 1.27 -3.56) (layer F.SilkS)
@@ -23,7 +23,7 @@
   (pad 2 thru_hole oval (at 1.27 0 180) (size 0.9 1.5) (drill 0.6) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 2.54 0 180) (size 0.9 1.5) (drill 0.6) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0 180) (size 0.9 1.5) (drill 0.6) (layers *.Cu *.Mask))
-  (model TO_SOT_Packages_THT.3dshapes/TO-92_Inline_Narrow_Oval.wrl
+  (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-92_Inline_Narrow_Oval.wrl
     (at (xyz 0.05 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
