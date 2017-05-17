@@ -1,6 +1,6 @@
 (module TO-262-1EP_I2PAK_Horizontal (layer F.Cu) (tedit 58CE52AE)
-  (descr "TO-262, Horizontal, RM 2.54mm, IIPAK, I2PAK, I²PAK")
-  (tags "TO-262 Horizontal RM 2.54mm IIPAK I2PAK I²PAK")
+  (descr "TO-262, Horizontal, RM 2.54mm, IIPAK, I2PAK")
+  (tags "TO-262 Horizontal RM 2.54mm IIPAK I2PAK")
   (fp_text reference REF** (at 2.54 -21.153333) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
